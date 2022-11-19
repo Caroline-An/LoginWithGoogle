@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854275129057",
+    "project_id": "loginusing-a8af5",
+    "storage_bucket": "loginusing-a8af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854275129057:android:3a122a6db1a233ddf001a0",
+        "android_client_info": {
+          "package_name": "com.example.loginusinggoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854275129057-bkic6p29djar3m17vtisjtef4s9pb8e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JDY6-KUs3u590UcN6I3i0TkoP9djHwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854275129057-bkic6p29djar3m17vtisjtef4s9pb8e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
